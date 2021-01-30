@@ -1,0 +1,9 @@
+html{
+   padding: 5px;
+   background-image: url(background.jpg);
+}
+body{width: 60;
+padding: 40;
+margin: 20;
+background-color: yellow;
+}
